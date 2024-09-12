@@ -1,3 +1,4 @@
 branch2 text 1
 
 this should have some modified text
+Another line of text was added
